@@ -1,0 +1,7 @@
+Termo 40 m
+B 3 m
+Electro 30 m
+WRKT 20 m
+Electro/Mec 25 m
+B 3 m
+E2 25 m
