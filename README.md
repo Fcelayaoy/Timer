@@ -1,4 +1,4 @@
 # test-1
-Just happened to walk by
+Timer for block-scheduling your evening. Path to the text file needs to be updated on the source code and a new .exe created after download. 
 
-This is the new line
+Mode 2 (planning according to end times insead of task duration) still not available
